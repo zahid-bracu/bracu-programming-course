@@ -1,0 +1,8 @@
+package Code;
+
+/*
+Draw the flowchart of a program that reads one number from the user, and prints it back to show which number was entered by the user.
+*/
+public class Task1 {
+
+}

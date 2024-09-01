@@ -1,0 +1,7 @@
+package Code;
+/*
+Draw the flowchart of a program that reads the radius of a circle and prints its circumference and area.
+*/
+public class Task3 {
+
+}

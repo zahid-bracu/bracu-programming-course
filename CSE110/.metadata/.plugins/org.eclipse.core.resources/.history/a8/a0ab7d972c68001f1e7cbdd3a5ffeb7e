@@ -1,0 +1,7 @@
+package Code;
+/*
+write a program that reads two numbers from the user. Your program should then print “first is greater” if the first number is greater, and “first is not greater” otherwise.
+*/
+public class Task5 {
+
+}
